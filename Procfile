@@ -1,0 +1,1 @@
+web: java -Dport=$PORT -Dstore=memory -Dmode=demo -Dpromo=true -jar target/application-name-1.0.0-SNAPSHOT.jar
