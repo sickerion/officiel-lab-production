@@ -1,1 +1,1 @@
-web: java -Dport=$PORT -Dstore=memory -Dmode=demo -Dpromo=true -jar target/cart-0.0.1-SNAPSHOT.jar
+web: java -Dport=$PORT -Dstore=hibernate -Dmode=demo -Dpromo=true -jar target/cart-0.0.1-SNAPSHOT.jar
